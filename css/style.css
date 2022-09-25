@@ -137,6 +137,8 @@ body {
 }
 .card h5{
     color: #fff;
+    font-family: sans-serif;
+    font-size:x-large
     
 }
 .card:hover{
